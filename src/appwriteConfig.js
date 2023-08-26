@@ -9,7 +9,7 @@ export const COLLECTION_ID_MESSAGES = '64dd17efbad211f6063b'
 const client = new Client();
 
 client
-    .setEndpoint('https://cloud.appwrite.io/v1')
+    .setEndpoint('cloud.appwrite.io/v1')
     .setProject('64dd16cd5d2d3213ebeb');
 
 
