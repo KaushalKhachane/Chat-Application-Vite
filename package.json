@@ -1,7 +1,6 @@
 {
   "name": "chat-application",
   "private": true,
-  "proxy": "chat-theta-smoky.vercel.app/",
   "version": "0.0.0",
   "type": "module",
   "scripts": {
